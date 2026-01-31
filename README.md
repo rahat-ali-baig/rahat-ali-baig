@@ -1,36 +1,88 @@
-<h1 align="center">Hi 👋, I'm Rahat Ali Baig</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+# ✨ Rahat Ali | Software Engineer
 
-<p align="center">I have extensive experience with projects like Intelliwriter, Wakiel, AI Medicals, my portfolio, Automated Lead Generation Bot, and more.</p>
+## 🧬 Professional Synopsis
 
-- 🔭 I’m currently working on [Deuces AI](https://www.deuces.ai)
-- 🌱 I’m currently learning **Advanced Concepts of JS & TS with Data Structures.**
-- 👯 I’m looking to collaborate on **futuristic projects such as Blockchain technologies.**
-- 👨‍💻 All of my projects are available at [my portfolio](https://rahat-ali-baig.vercel.app)
-- 💬 Ask me about **MERN, PERN, MySQL, Tailwinds CSS, Next JS, TypeScript, Three JS**
-- 📫 How to reach me: **rahatalibaig810@gmail.com**
+Software Engineer with 2.5+ years of expertise in architecting scalable web and desktop applications.  
+Proficient in the **MERN Stack, Next.js, TypeScript**, and modern real-time systems, with a growing command of backend architecture, Web3 integrations, and AI-enhanced platforms.  
+I build with purpose—focusing on maintainable systems, clear data flows, and solutions that grow with their users.
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/rahat-ali-baig" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahat-ali-baig" height="30" width="40" /></a>
-  <a href="https://instagram.com/its_rahat_ali_baig" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_rahat_ali_baig" height="30" width="40" /></a>
-  <a href="https://medium.com/@rahatalibaig810" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahatalibaig810" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@mr.coookiee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mr.coookiee" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/rahatalibaig810" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahatalibaig810" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</p>
+## 🔧 Core Competencies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat-ali-baig&show_icons=true&locale=en&layout=compact" alt="rahat-ali-baig" />
-</p>
+### **Frontend Architecture**  
+React.js · Next.js · TypeScript · Redux Toolkit · TanStack Query · Tailwind CSS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahat-ali-baig&show_icons=true&locale=en" alt="rahat-ali-baig" />
-</p>
+### **Backend & Data**  
+Node.js · Express.js · NestJS · MongoDB · Supabase · REST API Design
+
+### **Real-Time & Streaming**  
+Socket.io · WebSocket · WebRTC · Live Video Systems
+
+### **Blockchain & Desktop**  
+Solidity · Thirdweb SDK · Electron.js
+
+### **Infrastructure & Tools**  
+AWS (EC2, S3) · Docker · Git · Vercel · OpenAI & Generative AI Integration
+
+### **Languages**  
+JavaScript · TypeScript · C++ · PHP · Urdu (Native) · English (Elementary)
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Anamcara AI](https://anamcara.ai)** | SaaS platform with real-time chat, social feeds, and P2P video streaming. | Next.js · Supabase · Socket.io · WebRTC |
+| **[WatchBlock](https://watchblock.com)** | Web3 marketplace for luxury watches with role-based access and live bidding. | React · Node.js · Thirdweb · MongoDB |
+| **[Intelliwriter](https://intelliwriter.io)** | AI content generation platform integrating GPT-4 and MidJourney APIs. | Next.js · TypeScript · OpenAI · Gen AI |
+| **SaaS ERP Portal** | Enterprise platform with WhatsApp-like chat and Facebook-like streaming. | Next.js · NestJS · Socket.io · Supabase · RTK |
+
+---
+
+## 📈 Career Milestones
+
+- **Full Stack Developer · Instech Sol**  
+  Leading the development of a transformative SaaS ERP, implementing real-time chat and video streaming using **Socket.io** and **Supabase**, while advancing backend proficiency with **NestJS**.
+
+- **Full Stack Developer · Octaloop Technologies**  
+  Delivered **Web3 marketplaces** via Solidity and Thirdweb SDK, engineered real-time bidding and notification systems, and built cross-platform desktop applications with **Electron.js**.
+
+- **Frontend Developer · Robx AI**  
+  Mastered component-driven development in **Next.js** and **TypeScript**, contributing to scalable AI-powered content generation platforms.
+
+- **Continuous Growth**  
+  Evolved from frontend specialization to full-stack and real-time systems, now exploring **event-driven architectures**, **infrastructure as code**, and **AI-augmented data patterns**.
+
+---
+
+## 📬 Connect With Me
+
+- **Email:** [rahatalibaq810@gmail.com](mailto:rahatalibaq810@gmail.com) | [rahat.ali.dev@gmail.com](mailto:rahat.ali.dev@gmail.com)
+- **Phone:** +92 341 5769418
+- **LinkedIn:** [linkedin.com/in/rahat-ali-baig](https://www.linkedin.com/in/rahat-ali-baig)
+- **Portfolio:** [rahatali.netlify.app](https://rahatali.netlify.app)
+- **GitHub:** [github.com/rahat-ali](https://github.com/rahat-ali)
+
+---
+
+## 🧭 Current Focus
+
+- Advancing backend architecture with **NestJS**
+- Exploring **event-driven systems** and **Kafka**
+- Implementing **RAG** and vector databases for intelligent retrieval
+- Infrastructure automation with **Terraform**
+
+---
+
+## 🎨 Beyond Code
+
+- Building systems that balance scalability and clarity
+- Engaging with emerging Web3 and AI paradigms
+- Contributing to open-source and developer communities
+- Continuous learning through hands-on experimentation
+
+---
+
+> *"I engineer solutions that are scalable in complexity, clean in design, and collaborative in spirit."*
