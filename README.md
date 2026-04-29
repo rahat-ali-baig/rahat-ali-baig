@@ -3,7 +3,7 @@
 ## 🧬 Professional Synopsis
 
 Software Engineer with 3 years of expertise in architecting scalable web and desktop applications.  
-Proficient in the **MERN Stack, Next.js, TypeScript**, and modern real-time systems, with a growing command of backend architecture, Web3 integrations, and AI-enhanced platforms.  
+Proficient in the **MERN Stack, Next.js, Nest.js, TypeScript**, and modern real-time systems, with a growing command of backend architecture, Web3 integrations, and AI-enhanced platforms.  
 I build with purpose—focusing on maintainable systems, clear data flows, and solutions that grow with their users.
 
 ---
